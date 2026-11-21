@@ -1,0 +1,22 @@
+Pong Recompiled: licence notes
+==============================
+
+Pong Recompiled (this release)
+  Copyright (c) 2026 BrendleFly. Noncommercial use only, because the build
+  is based on psxrecomp (see below). Your legally made disc copy is required
+  to play; the game data is never distributed here.
+
+psxrecomp
+  PolyForm Noncommercial 1.0.0. Source-available, noncommercial purposes
+  only. The Pong build therefore ships as a noncommercial release.
+
+recomp-net
+  MIT License. Copyright (c) the recomp-net authors.
+
+OpenBIOS
+  The bundled OpenBIOS image carries its own licence (GNU LGPL; see the
+  psxrecomp project for details and sources).
+
+Disc content
+  Pong: The Next Level is the property of its original publisher. Nothing
+  from the disc is distributed here: players verify and use their own copy.
